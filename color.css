@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6{color:#303030;}
 .sn .icon-img{background-color:#5a5e63!important}
 .sn .icon-img:hover{background-color:#f16d3c!important}
 .sn .twitter{background:url(../images/social/twitter.png) no-repeat center}
-.sn .facebook{background:url(../images/social/facebook.png) no-repeat center}
+.sn .facebook{background:url(../images/social/facebook.png) no-repeat center}      
 .sn .google{background:url(../images/social/google.png) no-repeat center}
 .sn .rss{background:url(../images/social/rss.png) no-repeat center}
 .sn .picasa{background:url(../images/social/picasa.png) no-repeat center}
@@ -306,19 +306,19 @@ tr.odd td {background: #F2F7FC;}
 
 
 /*============================================== FOOTER SECTION ==============================================*/
-#footer{background:url(../images/bg-footer.png)}
+#footer{background:url(bg-footer.png)}
 #outerfootersidebar{ }
 #footer h2{color:#fff;}
 #footer{ color:#a6a6a6}
-#footer a, #footer a:visited{color:#a6a6a6;}
+#footer a, #footer a:visited{color:#a6a6a6;} 
 #footer a:hover{color:#f16d3c;}
 
-#footersidebar li li{ border-bottom:1px dotted #888;}
+#footersidebar li li{ border-bottom:1px dotted #888;} 
 
 #footersidebar .phone{ color:#fff;}
 #footersidebar .tweetList li a{color:#f16d3c;}
 #footersidebar .timestamp{ color:#888;}
 
-#outercopyright{ background:url(../images/footer-opacity.png);}
+#outercopyright{ background:url(footer-opacity.png);}   
 
 #copyright a, #copyright a:visited{ color:#ddd}
